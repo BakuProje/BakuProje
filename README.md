@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuzuroken</h1>
-<h3 align="center">Beginner Cyber Security Enthusiast from Indonesia 🇮🇩</h3>
+<h3 align="center">Beginner from Indonesia 🇮🇩</h3>
 
 <img align="right" alt="cyber" width="320" src="https://cdn.dribbble.com/users/31818/screenshots/14955798/giff.gif"/>
 
