@@ -13,7 +13,7 @@
 
 <h3>🌐 Website</h3>
 <p>
-  🔗 <a href="https://kuzufolio.vercel.app" target="_blank">kuzufolio.vercel.app</a>
+  🔗 <a href="https://kuzuroken.vercel.app" target="_blank">kuzuroken.vercel.app</a>
 </p>
 
 <h3>🌍 Social Media</h3>
